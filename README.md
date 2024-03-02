@@ -59,12 +59,3 @@ carbsNeed (to calculate the carbohydrate needs based on TDEE , fat needs, and pr
 
 ## 4.4 Public Class Booking:
 This class is responsible for booking personal training (PT) and class sessions. The class would get the number of hours for the PT session that the member wants,  display the menu of available classes with time slots, and book the preferred sessions.
-
-
-# Code
-Click on the file below to view the full source code:
-	FitnessApp Code snippets.pdf
-
-#Code output 
-
-
