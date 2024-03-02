@@ -30,10 +30,15 @@ The class would execute in the following sequence:
 ### 1. Display welcome message
 ### 2. Ask user if already registered as a member
 ○ Get membership number that was randomly generated or name
+
 ○ Check from record file if the number exists
+
 ○ If not, program exits and asks to try again or register as new member
+
 ○ Add member by directing to the Membership Class
+
 ○ If member exists check if active by the Deactivate method in Membership Class
+
   ### 3. Direct to menu with the following options that direct to their respected classes: Calculation, booking, Freeze, Renew and Logout
 
 ## 4.2 Public Class Membership:
