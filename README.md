@@ -23,6 +23,7 @@ Members can control their membership status via the application through the opti
 The program will entail the following classes in the way they are described below and illustrated in Figure 1:
 
 Figure 1: UML Class Diagram
+![FitnessApp (1)](https://github.com/Jzakai/FitnessApp/assets/116767833/4355c053-cb4b-4529-83c8-3e9c823d6d1a)
 
 ## 4.1. Public Class FitnessAppDemo:
 This class contains the main class which drives the whole program. The class is responsible for presenting the main menu options for the program in a loop until the user intends to log out and creating instances of the other classes.
