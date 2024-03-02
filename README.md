@@ -1,4 +1,4 @@
-# FitnessApp
+# Gym Management and Fitness Tracking System 
 # Problem Statement
 The fitness industry plays an essential role in the lives of individuals who prioritize a healthy lifestyle. However, many gyms and fitness centers are still lacking in terms of leveraging technology to enhance their operations. While some applications exist, they often lack fundamental facilities necessary to automate the registration process and provide an enhanced gym experience to their members.
 
