@@ -6,15 +6,16 @@ The fitness industry plays an essential role in the lives of individuals who pri
 We propose the development of a comprehensive Gym Management and Fitness Tracking System that will act as a blueprint for gym applications. This proposed system aims to address the limitations of existing applications by providing a wide range of functionalities to improve the overall gym experience for members.
 
 # Key Features:
-3.1 Easy-to-use Calculation Services: 
+## 3.1 Easy-to-use Calculation Services: 
 The application will offer calculation services to help members keep track of their gym progress. This includes features such as body measurements and calorie counting. By providing these tools, members can monitor their progress and make informed decisions about their fitness journey.
 
-3.2 Automated Membership Registration: 
+## 3.2 Automated Membership Registration: 
 Members will be able to sign up, provide necessary personal information, select their membership type, and make payments securely within the application.
-3.3 Class Booking:
+
+## 3.3 Class Booking:
  Members will have the convenience of viewing class and booking slots. This feature will simplify class management, reduce overcrowding, and ensure a better user experience for members.
 
-3.4 Membership Status Control:
+## 3.4 Membership Status Control:
 Members can control their membership status via the application through the option to freeze the account and renew the membership.
 
 
