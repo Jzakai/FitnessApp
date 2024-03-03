@@ -1,9 +1,7 @@
 # Gym Management and Fitness Tracking System 
-# 1. Problem Statement
+# 1. System overview
 The fitness industry plays an essential role in the lives of individuals who prioritize a healthy lifestyle. However, many gyms and fitness centers are still lacking in terms of leveraging technology to enhance their operations. While some applications exist, they often lack fundamental facilities necessary to automate the registration process and provide an enhanced gym experience to their members.
-
-# 2. Proposed Solution
-We propose the development of a comprehensive Gym Management and Fitness Tracking System that will act as a blueprint for gym applications. This proposed system aims to address the limitations of existing applications by providing a wide range of functionalities to improve the overall gym experience for members.
+This is a comprehensive Gym Management and Fitness Tracking System that will act as a blueprint for gym applications. This proposed system aims to address the limitations of existing applications by providing a wide range of functionalities to improve the overall gym experience for members.
 
 # 3. Key Features:
 ## 3.1 Easy-to-use Calculation Services: 
