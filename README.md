@@ -3,6 +3,7 @@
 This program is the back-end code of a Gym Management and Fitness Tracking System providing a wide range of functionalities to improve the overall gym experience for members.
 
 # 2. Implemented techniques
+- Objeect-oreinted programming
 - Aggregation
 - reading and writing to file
 
